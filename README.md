@@ -19,4 +19,18 @@ Node.js (v16+ recommended)
 npm or yarn installed
 
 A Google AI Studio API Key (Get it here)
+ Implemented Features
+
+UI/UX Quality: Clean, modern design using ShadCN components.
+
+API Integration: Proper Gemini API interaction & structured content generation.
+
+Functionality: Dummy login, editable AI-generated lesson plan, PDF download.
+
+Code Quality: Modular, maintainable, and well-documented code.
+
+Bonus: Dark mode, local storage, enhanced editing UI.
+
+Heres the Deployed link -https://genuine-pavlova-a5ac77.netlify.app/
+
 
